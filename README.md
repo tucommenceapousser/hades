@@ -147,4 +147,3 @@ Distributed under the MIT License. See [LICENSE](https://github.com/Lavender-exe
 ## Acknowledgements
 
 * [Joe Helle](https://twitter.com/joehelle?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
-# hades
