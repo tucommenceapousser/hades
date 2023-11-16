@@ -138,12 +138,12 @@ Contributions are what make the open source community such an amazing place to b
 
 ## License
 
-Distributed under the MIT License. See [LICENSE](https://github.com/Lavender-exe/Hades-C2/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/tucommenceapousser/hades/blob/main/LICENSE.md) for more information.
 
 ## Authors
 
-* **Lavender** - *Nerd* - [Lavender](https://github.com/Lavender-exe/) - *Created Project*
+* **trhackno,** - *Nerd* - [trhacknon](https://github.com/tucommenceapousser/) - *Created Project*
 
 ## Acknowledgements
 
-* [Joe Helle](https://twitter.com/joehelle?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* [trhacknon](trkn)
